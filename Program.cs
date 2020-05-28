@@ -77,7 +77,7 @@ namespace Lab32_LinqPractice
                 Console.WriteLine($"{s.Name} is a teenager of {s.Age} years.");
             }
 
-            List<Student> startsWVowel = (from s in students where s.Name.ToLower().ToCharArray().First().Equals("a" || "e" || "i" || "o" || "u"));
+            List<Student> startsWVowel = (from s in students where VerifyInitialVowel(s.Name));
             Console.WriteLine("The list of students whose names begin with a vowel is as follows: ");
             foreach(Student s in startsWVowel)
             {
@@ -87,6 +87,20 @@ namespace Lab32_LinqPractice
             //Combined LINQ Methods Where() and Max()
             //int oddMax = nums.Where(x => x % 2 == 1).Max();
             //Console.WriteLine($"The highest odd value in the list is {oddMax}.");
+        }
+
+        static bool VerifyInitialVowel(string name)
+        {
+            char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
+            char[] nameArray = name.ToLower().ToCharArray(); 
+            foreach(char v in vowels)
+            {
+                if (nameArray[0] == v)
+                {
+                    return true;
+                } 
+            }
+                return false;
         }
     }
 }
