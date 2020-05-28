@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.exe
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.deps.json
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.runtimeconfig.json
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.runtimeconfig.dev.json
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.dll
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\bin\Debug\netcoreapp3.1\Lab32_LinqPractice.pdb
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.AssemblyInfo.cs
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.dll
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.pdb
+C:\Users\tomas\Documents\Grand Circus\Labs\Lab32_LinqPractice\obj\Debug\netcoreapp3.1\Lab32_LinqPractice.genruntimeconfig.cache
